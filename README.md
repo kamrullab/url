@@ -40,7 +40,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 Support Us! Your contributions will help us continue our projects and create more open-source content.
 
-## BKASH Donation
+## BKASH DONATION
 
 You can donate using bKash. Click the logo below to make your contribution:
 
